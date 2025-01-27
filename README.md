@@ -4,7 +4,7 @@ Raven documentation
 
 ## License
 
-QB Networks official GitHub README repository
+Raven documentation
 
 Copyright (C) 2024-2025 QB Networks
 
